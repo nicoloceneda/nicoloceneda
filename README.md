@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicoloceneda
-- 👀 I’m interested in fixed income securities and financial derivatives
-- 🌱 I’m currently a PhD candidate in Finance at Imperial College London
+- 📈 I’m interested in fixed income securities and financial derivatives
+- 📚 I’m currently a PhD candidate in Finance at Imperial College London
 - 📫 n.ceneda20[at]imperial.ac.uk
 
 <!---
