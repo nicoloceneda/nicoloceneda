@@ -1,7 +1,14 @@
 - 👋 Hi, I’m @nicoloceneda
 - 📈 I’m interested in fixed income securities and financial derivatives
 - 📚 I’m currently a PhD candidate in Finance at Imperial College London
-- 📫 n.ceneda20[at]imperial.ac.uk
+
+<a href="https://chromedino.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/dino-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./img/dino.gif" />
+    <img alt="https://nicoloceneda.com" src="./img/dino-dark.gif" />
+  </picture>
+</a>
 
 <!---
 nicoloceneda/nicoloceneda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
