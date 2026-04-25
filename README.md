@@ -6,7 +6,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./img/dino-dark.gif" />
     <source media="(prefers-color-scheme: light)" srcset="./img/dino.gif" />
-    <img alt="https://nicoloceneda.com" src="./img/dino-dark.gif" />
+    <img alt="https://nicoloceneda.github.io/" src="./img/dino-dark.gif" />
   </picture>
 </a>
 
